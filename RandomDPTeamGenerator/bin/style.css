@@ -1,0 +1,40 @@
+//styles for input/output panes
+.bold-label 
+{
+	-fx-text-fill: rgb(169,112,255); 
+	-fx-font-weight: bold;
+}
+.normal-label 
+{
+	-fx-text-fill: rgb(142,137,208);
+}
+.char-txt-field
+{
+	-fx-border-color: rgb(169,112,255); 
+	-fx-background-color: rgb(99,68,156); 
+	-fx-text-fill: white; 
+	-fx-font-weight: bold;
+}
+.label-1P
+{
+	-fx-text-fill: rgb(53,82,247);
+	-fx-font-weight: bold;
+	-fx-font-size: 20px;
+}
+.label-2P
+{
+	-fx-text-fill: rgb(143,16,58);
+	-fx-font-weight: bold;
+	-fx-font-size: 20px;
+}
+//styles for root pane
+.output-btn
+{
+	-fx-color: rgb(58,49,114);
+	-fx-font-weight: bold;
+	-fx-background-insets: 0;
+}
+.background
+{
+	-fx-background-color: rgb(29,24,57);
+}
