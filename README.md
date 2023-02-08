@@ -19,6 +19,8 @@ At that point, the user can hover over any of the names and check the correspond
 
 ![preview4](https://github.com/ViveTheModder/RandomDPTeamGenerator/blob/main/images/preview4.png)
 
+In case you couldn't tell, I got inspired by Opera GX for the GUI. A lot.
+
 ## Known Issues
 * As of now, I cannot get a proper runnable JAR release of the program because of certain issues with Eclipse's export feature.
   Because of that, there are no download/build instructions provided. Guilty as charged.
